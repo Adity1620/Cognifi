@@ -115,8 +115,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 ## 📬 Contact
-Aditya V - adityavenkatesh16@gmail.com
-
-
-**Adity1620** – [@Adity1620](https://github.com/Adity1620)  
-**Project Link:** [https://github.com/Adity1620/Cognifi](https://github.com/Adity1620/Cognifi)
+Aditya V - [Mail](adityavenkatesh16@gmail.com)
